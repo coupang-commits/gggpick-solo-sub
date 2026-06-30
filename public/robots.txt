@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solo.gggpick.com/sitemap.xml
